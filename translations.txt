@@ -1,0 +1,50 @@
+
+Original: Hello, Kezia
+
+Original: Hello, Kezia
+Translated to Arabic: مرحبا kezia
+Pronunciation: marhaban kezia
+Translated from: id
+------------------------------
+
+Original: Hello beautiful!
+Translated to Arabic: مرحبا جميلة!
+Pronunciation: marhaban jamila!
+Translated from: English
+------------------------------
+
+Original: Kuzum
+Translated to Arabic: خروف بلدي
+Pronunciation: kharuf baladi
+Translated from: tr
+------------------------------
+
+Original: Good Day!
+Translated to Arabic: يوم جيد!
+Pronunciation: yawm jayd!
+Translated from: English
+------------------------------
+
+Original: I am happy! I did it!
+Translated to Arabic: أنا سعيد! أنا فعلت هذا!
+Pronunciation: None
+Translated from: English
+------------------------------
+
+Original: My favorite color is yellow.
+Translated to Arabic: لوني المفضل هو الأصفر.
+Pronunciation: lawni almufadal hu al'asfaru.
+Translated from: English
+------------------------------
+
+Original: I love sweets.
+Translated to Arabic: أنا أحب الحلويات.
+Pronunciation: 'ana 'uhibu alhalwayati.
+Translated from: English
+------------------------------
+
+Original: I love tea, matcha tea!
+Translated to Arabic: أنا أحب الشاي ، شاي ماتشا!
+Pronunciation: 'ana 'uhibu alshaay , shay matsha!
+Translated from: English
+------------------------------
