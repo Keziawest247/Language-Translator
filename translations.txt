@@ -48,3 +48,75 @@ Translated to Arabic: أنا أحب الشاي ، شاي ماتشا!
 Pronunciation: 'ana 'uhibu alshaay , shay matsha!
 Translated from: English
 ------------------------------
+
+Original: Good Morning in Turkish.
+Translated to Turkish: Türkçe günaydın.
+Pronunciation: Good Morning in Turkish.
+Translated from: English
+------------------------------
+
+Original: My Love, My Lamb, your beautiful!
+Translated to Turkish: Aşkım, kuzuum, senin güzel!
+Pronunciation: My Love, My Lamb, your beautiful!
+Translated from: English
+------------------------------
+
+Original: Adim Farah
+Translated to Turkish: Adim Farah
+Pronunciation: Adim Farah
+Translated from: Turkish
+------------------------------
+
+Original: Istanbul, Turkey
+Translated to Turkish: Istanbul, Turkey
+Pronunciation: Istanbul, Turkey
+Translated from: Turkish
+------------------------------
+
+Original: I want to vist Istanbul, in Turkey
+Translated to Turkish: Türkiye'de İstanbul'u ziyaret etmek istiyorum
+Pronunciation: I want to vist Istanbul, in Turkey
+Translated from: English
+------------------------------
+
+Original: Okay, No!
+Translated to Turkish: Tamam, hayır!
+Pronunciation: Okay, No!
+Translated from: English
+------------------------------
+
+Original: Good Night?
+Translated to Turkish: İyi geceler?
+Pronunciation: Good Night?
+Translated from: English
+------------------------------
+
+Original: Diamond Jeweler
+Translated to Turkish: Elmas kuyumcu
+Pronunciation: Diamond Jeweler
+Translated from: English
+------------------------------
+
+Original: Candy Apple
+Translated to Turkish: Şeker Elma
+Pronunciation: Candy Apple
+Translated from: English
+------------------------------
+
+Original: Sugar Plum or Sugar Apple, Bekir & Gonul
+Translated to Turkish: Sugar Plum or Sugar Apple, Bekir & Gonul
+Pronunciation: Sugar Plum or Sugar Apple, Bekir & Gonul
+Translated from: Turkish
+------------------------------
+
+Original: What is for Breakfast?
+Translated to Turkish: Kahvaltıda ne var?
+Pronunciation: What is for Breakfast?
+Translated from: English
+------------------------------
+
+Original: Where is your bathroom?
+Translated to Turkish: Banyonuz nerede?
+Pronunciation: Where is your bathroom?
+Translated from: English
+------------------------------
